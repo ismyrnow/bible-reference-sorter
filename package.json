@@ -1,0 +1,16 @@
+{
+  "name": "bible-passage-sorter",
+  "version": "0.0.1",
+  "author": "Ishmael Smyrnow",
+  "license": "MIT",  
+  "private" true,
+  "dependencies": {
+    "sword": "ismyrnow/sword",
+    "jquery": "^2.1.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-browserify": "^3.2.1"
+  }
+}
